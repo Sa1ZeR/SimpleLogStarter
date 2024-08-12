@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: log-starter
+
+
+http-logger:
+  using-filter: true
+  using-interceptor: false
+  using-oap: false
+
