@@ -1,0 +1,4 @@
+http-logger:
+  using-oap: false
+  using-filter: false
+  using-interceptor: true
